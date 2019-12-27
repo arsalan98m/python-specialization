@@ -1,0 +1,7 @@
+Name,Roll_no,Course
+Abid,1212,AI
+Shaka,1213,CNC
+Imran,1214,Graphic Design
+Owais,1215,Ms Office
+Umair,1216,Blockchain
+Raza,1217,AI
